@@ -63,7 +63,8 @@ def baliho():
 		print 'ooO--(_)--Ooo'.center(44)
 		print ' ' + W
 		print ('O S I F').center(44)
-		print (W + '     [' + G +'Open Source Information Facebook'+ W + ']')
+		print (G + 'Author By Fajar Id')
+		print (W + '     [' + G +'Buka Informasi Facebook'+ W + ']')
 		print ' '
 ####################################################################
 #		    Print In terminal
@@ -80,6 +81,7 @@ def show_program():
     Team       Blackhole Security
     Email      xnver404@gmail.com
     Telegram   @CiKu370
+    Facebook   Fajar Id
 * if you find any errors or problems , please contact
   author
 '''%(G,W)
